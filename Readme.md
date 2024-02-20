@@ -8,7 +8,7 @@ Due to the nature of trading card games, cards are bought and sold on the second
 
 Game stores typically buy and sell product through a third party distributor, but many game stores will often take in trades (at roughly 30-60% of the original value of the card) in exchange for store credits. This presents a challenge when cards are reprinted:
 
-Example: Card A originally had a 20 price tag, a store bought it on a trade in for 10. However reprints were just announced that would lower the price of this card to 2$ over the course of a few months: resulting in an $8 loss for the store. 
+Example: Card A originally had a $20 price tag, a store bought it on a trade in for $10. However reprints were just announced that would lower the price of this card to $2 over the course of a few months: resulting in an $8 loss for the store. 
 
 In order for game stores to identify which cards are being reprinted (in order to avoid buying a declining asset) I created this utility which allows users to quickly input a list of cards, and determine whether or not those cards are reprints.
 
