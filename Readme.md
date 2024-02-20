@@ -1,6 +1,6 @@
 Utility for checking if magic cards are reprints
 
-Problem:
+**Problem:**
 
 [Magic](https://en.wikipedia.org/wiki/Magic:_The_Gathering) is a 30 year old collectible card game. 
 
@@ -12,7 +12,7 @@ Example: Card A originally had a $20 price tag, a store bought it on a trade in 
 
 In order for game stores to identify which cards are being reprinted (in order to avoid buying a declining asset) I created this utility which allows users to quickly input a list of cards, and determine whether or not those cards are reprints.
 
-To get started:
+**To get started:**
 1. Clone the repo
 2. Run: docker-compose build
 3. Run: docker-compose up
