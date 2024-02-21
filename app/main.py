@@ -21,7 +21,7 @@ async def check_reprint(check_reprint_request: CheckReprintModel) -> dict:
 
 def get_cards_in_sets(sets: List[str]) -> dict:
     formatted_cards = {}
-    # Long Term We Should Cache This Data
+    # For demo purposes this data is refreshed every time, in a productionalized application I would cache this data
     for set_code in sets:
         # First Get Set Info
         response = requests.get(f'https://api.scryfall.com/sets/{set_code}')
